@@ -22,4 +22,4 @@ You can run the code by simply typing ```python face_detection_with_eye.py``` It
 
 ## Results
 
-
+<img src="https://github.com/burak0006/Face_Detection-Eye_Tracking/blob/main/sample.png?raw=true" width = "512" height = "384"/>
